@@ -58,10 +58,4 @@ The **Prodigy Internship in Web Development** is designed to strengthen skills i
 
 ---
 
-## Setup and Installation  
 
-Follow these steps to set up the repository locally:  
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/prodigy-internship.git  
